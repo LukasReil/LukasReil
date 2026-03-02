@@ -1,5 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hey there👋, I'm Lukas</h1>
 
+Checkout our custom CPU: [Shade-1](https://github.com/rtbnb/SixteenShadesOfCpu)
+
+I'm currently working on: [Custom Scanning Electron Microscope](https://github.com/LukasReil/SEM_Dev)
+
+----------
+Contact me:
+
+<a href="https://discord.com/users/517013147346010162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5J3WgkbPE5" height="30" width="40" /></a>
 <!--
 **LukasReil/LukasReil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
