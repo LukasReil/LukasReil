@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋, I'm Lukas</h1>
 
-Checkout our custom CPU: [Shade-1](https://github.com/rtbnb/SixteenShadesOfCpu)
+Check out our custom CPU: [Shade-1](https://github.com/rtbnb/SixteenShadesOfCpu)
 
 I'm currently working on: [Custom Scanning Electron Microscope](https://github.com/LukasReil/SEM_Dev)
 
