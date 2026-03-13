@@ -5,7 +5,7 @@ Check out our custom CPU: [Shade-1](https://github.com/rtbnb/SixteenShadesOfCpu)
 I'm currently working on: [Custom Scanning Electron Microscope](https://github.com/LukasReil/SEM_Dev)
 
 
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=LukasReil&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
+![Top Languages](./profile/top-langs.svg)
 ----------
 Contact me:
 
