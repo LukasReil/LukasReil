@@ -2,7 +2,7 @@
 
 Check out our custom CPU: [Shade-1](https://github.com/rtbnb/SixteenShadesOfCpu)
 
-I'm currently working on: [Custom Scanning Electron Microscope](https://github.com/LukasReil/SEM_Dev)
+I'm currently working on a [Custom Scanning Electron Microscope](https://github.com/LukasReil/SEM_Dev) and an accompanying [Electron Optics Simulator](https://github.com/LukasReil/ElectronOptics).
 
 
 ![Top Languages](./profile/top-langs.svg)
